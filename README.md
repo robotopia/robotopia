@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 -->
 
-## Quick links to active repos
+## Handy links
 
 ### Work
 
+#### Organisations
+
 - [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group)
+
+#### Repos
+
 - [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam)
-- [PSR #2 paper](https://github.com/robotopia/j0024-1956-analysis)
+- [PSR #2 paper](https://github.com/robotopia/j0024-1956-analysis) (private)
