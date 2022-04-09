@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 
 ## Quick links to active repos
 
+### Work
+
 - [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group)
-  - [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam)
+- [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam)
+- [PSR #2 paper](https://github.com/robotopia/j0024-1956-analysis)
