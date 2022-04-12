@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 ### Work
 
+#### Projects
+
+- [All ICRAR work](https://github.com/users/robotopia/projects/1)
+
 #### Organisations
 
 - [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group)
