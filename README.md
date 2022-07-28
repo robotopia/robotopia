@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 - [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat)
 - [76s transient](https://github.com/robotopia/meerkat-long-period-mwa-analysis)
 - [3 Hour Transient](https://github.com/nhurleywalker/3Hour-Transient)
+- Current students:
+  - Lachlan Capes: [Exploring the quantum nature of pulsar radio emission](https://github.com/CIRA-Pulsars-and-Transients-Group/3rd-year-project-lachlan-capes)
+  - Alexander Lui: [Testing the Pulsar Carousel Model through single-pulse polarimetry](https://github.com/CIRA-Pulsars-and-Transients-Group/3rd-year-project-alexander-lui)
+  - Jared Moseley: [Optimisation of the MWA's High Time Resolution mode data processing](https://github.com/CIRA-Pulsars-and-Transients-Group/honours-project-jared-moseley/blob/main/README.md)
