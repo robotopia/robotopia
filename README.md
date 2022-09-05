@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - [Caleb](https://github.com/robotopia/meerkat-long-period-mwa-analysis)
   - [GPM transient 180](https://github.com/nhurleywalker/3Hour-Transient)
   - [GPM transient 22](https://github.com/nhurleywalker/GPMTransient)
-  - [Original 18-min GLEAM-X transient](https://github.com/robotopia/natashas_mystery_source)
+  - [Original GLEAM-X transient](https://github.com/robotopia/natashas_mystery_source)
 - Current students:
   - Lachlan Capes: [Exploring the quantum nature of pulsar radio emission](https://github.com/CIRA-Pulsars-and-Transients-Group/3rd-year-project-lachlan-capes)
   - Alexander Lui: [Testing the Pulsar Carousel Model through single-pulse polarimetry](https://github.com/CIRA-Pulsars-and-Transients-Group/3rd-year-project-alexander-lui)
