@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 #### Repos
 
 - [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam)
-- [PSR #2 paper](https://github.com/robotopia/j0026-1955-analysis)
+- [B0818-41 paper](https://github.com/CIRA-Pulsars-and-Transients-Group/summer-project-2020-2021-lisa-smith) (private)
 - MWA polarisation:
   - [MWA Calibration Study](https://github.com/CIRA-Pulsars-and-Transients-Group/mwa_calibration_study) (private)
   - [Beamformer paper 5](https://github.com/robotopia/paper-bfm5) (private)
