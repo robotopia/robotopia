@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 #### Organisations
 
 - [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group)
+  - [SMART Deep Planning](https://github.com/CIRA-Pulsars-and-Transients-Group/SMART_deep_planning)
 
 #### Units
 
