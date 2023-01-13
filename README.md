@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 #### Organisations
 
 - [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group)
-  - [SMART Deep Planning](https://github.com/CIRA-Pulsars-and-Transients-Group/SMART_deep_planning)
+  - SMART
+    - [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) (private)
+    - [SMART Deep Planning](https://github.com/CIRA-Pulsars-and-Transients-Group/SMART_deep_planning)
+    - [mwa_search](https://github.com/CIRA-Pulsars-and-Transients-Group/mwa_search)
 
 #### Units
 
@@ -38,7 +41,6 @@ Here are some ideas to get you started:
 - MWA polarisation:
   - [MWA Calibration Study](https://github.com/CIRA-Pulsars-and-Transients-Group/mwa_calibration_study) (private)
   - [Beamformer paper 5](https://github.com/robotopia/paper-bfm5) (private)
-- [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) (private)
 - Transients:
   - [Caleb](https://github.com/robotopia/meerkat-long-period-mwa-analysis) (private)
   - [GPM transient 180](https://github.com/nhurleywalker/3Hour-Transient) (private)
