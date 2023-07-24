@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - [ULP Postdoc](https://github.com/robotopia/postdoc2)
   - [Tim's Galactic Plane Monitoring pipeline](https://github.com/tjgalvin/MWA-Galactic-Plane-Monitoring) (private)
   - [GLEAM X Pipeline](https://github.com/GLEAM-X/GLEAM-X-pipeline)
-  - [GPM transient 180](https://github.com/nhurleywalker/3Hour-Transient) (private)
   - [GPM transient 22](https://github.com/nhurleywalker/GPMTransient) (private)
   - GPM transient 18: [published](https://github.com/nhurleywalker/GLEAM-X_Periodic_Transient), [personal](http://github.com/robotopia/natashas_mystery_source)
 - [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group) and related
