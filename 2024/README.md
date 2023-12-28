@@ -8,7 +8,7 @@
 - Noongar
   1. Bethia's project
      1. Analysis of early Noongar transcriptions
-  2. Len Collard's project
+  2. Lens project
 - Science education
   1. Pulsar project with Ryan
   2. Pulsar database webapp that builds on both ATNF and EPN
