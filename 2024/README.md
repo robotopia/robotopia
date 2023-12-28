@@ -8,7 +8,7 @@
 2. Collect examples of transcriptions of Noongar language in early colonial history
    1. Reduce [existing Django models](https://github.com/robotopia/language-collections-management) to basic schema
    2. Implement schema in SQL
-   3. Create webapp with PDF interface for rapid data input
+   3. Create [webapp with PDF interface](https://github.com/robotopia/colonial_accounts_of_noongar) for rapid data input
    4. Collect data
    5. Adapt schema as necessary
 3. Pulsar project with Ryan
