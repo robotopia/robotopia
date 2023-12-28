@@ -6,7 +6,7 @@
    1. Develop a [personal database](https://github.com/robotopia/flora-and-fauna-kronkup-database) to observe, identify, and track changes over time of the flora and fauna that live on our block
    2. Create a [basic webapp](https://github.com/robotopia/flora-and-fauna) around the database
 2. Collect examples of transcriptions of Noongar language in early colonial history
-   1. Reduce existing Django models to basic schema
+   1. Reduce [existing Django models](https://github.com/robotopia/language-collections-management) to basic schema
    2. Implement schema in SQL
    3. Create webapp with PDF interface for rapid data input
    4. Collect data
