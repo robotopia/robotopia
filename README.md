@@ -14,22 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 -->
 
-## Handy links
+## Selection of repos
 
-### Work
+Below are links to some of the repos that I *have* worked on, *do* work on, or *want* to work on more.
 
-#### Repos
+### Legend of repo "types"
 
-- [ULP Postdoc](https://github.com/robotopia/postdoc2)
-  - [The Galactic Plane Monitoring pipeline](https://github.com/robotopia/MWA-Galactic-Plane-Monitoring) (private)
-  - [GLEAM X Pipeline](https://github.com/GLEAM-X/GLEAM-X-pipeline)
-  - [GPM transient 22](https://github.com/nhurleywalker/GPMTransient) (private)
-  - GPM transient 18: [published](https://github.com/nhurleywalker/GLEAM-X_Periodic_Transient), [personal](http://github.com/robotopia/natashas_mystery_source)
-- [CIRA Pulsars and Transients Group](https://github.com/CIRA-Pulsars-and-Transients-Group) and related
-  - SMART
-    - [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) (private)
-    - [SMART Deep Planning](https://github.com/CIRA-Pulsars-and-Transients-Group/SMART_deep_planning)
-    - [mwa_search](https://github.com/CIRA-Pulsars-and-Transients-Group/mwa_search)
-  - [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam)
-- Units I teach
-  - [Relativistic Astrophysics and Cosmology](https://github.com/robotopia/astr3000) (private)
+| Symbol | Description |
+| :----: | :---------- |
+| 🔒 / 🔓 | Private repo / Public repo |
+| 🚼 / 🛠 / 📁 | Undeveloped ideas / Actively maintained / Archived |
+| ① | I am currently the primary developer |
+
+#| ✍ | A "research paper" repo |
+
+### Table
+
+| Name (and link) | Type | Associated links |
+| :-------------- | :--: | :--------------- |
+| [The Galactic Plane Monitoring pipeline](https://github.com/robotopia/MWA-Galactic-Plane-Monitoring) | 🔓🏗️① |
+| [Relativistic Astrophysics and Cosmology](https://github.com/robotopia/astr3000) | 🔒🏗️① | [Unit description](https://handbook.curtin.edu.au/units/unit-ug-relativistic-astrophysics-and-cosmology--astr3000v1) |
+| [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) | 🔒🏗️ |
+| [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam) | 🔓🏗️ |
+| [GLEAM-X J162759.5−523504.3](https://github.com/nhurleywalker/GLEAM-X_Periodic_Transient) | 🔓📁 | [Discovery paper](https://doi.org/10.1038/s41586-021-04272-x) |
+| [GPM J1839-10](https://github.com/nhurleywalker/GPMTransient) | 🔓📁 | [Discovery paper](https://doi.org/10.1038/s41586-023-06202-5) |
