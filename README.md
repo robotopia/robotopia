@@ -38,9 +38,9 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 | [Pipeline tool for MWA/HPC](https://github.com/robotopia/mwa-projects) | 🔒🚼①✍ | |
 | [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) | 🔒🛠✍ | |
 | [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam) | 🔓🛠✍ | [Documentation](https://cira-pulsars-and-transients-group.github.io/vcsbeam/) |
-| [GLEAM-X J162759.5−523504.3](https://github.com/nhurleywalker/GLEAM-X_Periodic_Transient) | 🔓📁✍ | [Discovery paper](https://doi.org/10.1038/s41586-021-04272-x) |
-| [GPM J1839-10](https://github.com/nhurleywalker/GPMTransient) | 🔓📁✍ | [Discovery paper](https://doi.org/10.1038/s41586-023-06202-5) |
-| [Inverse Polyphase Filterbank](https://github.com/robotopia/paper-ipfb) | 🔓📁✍① | [Published paper](https://doi.org/10.1017/pasa.2020.24) |
+| [GLEAM-X J162759.5−523504.3](https://github.com/nhurleywalker/GLEAM-X_Periodic_Transient) | 🔓📁✍ | [Discovery paper (Hurley-Walker et al. 2022)](https://doi.org/10.1038/s41586-021-04272-x) |
+| [GPM J1839-10](https://github.com/nhurleywalker/GPMTransient) | 🔓📁✍ | [Discovery paper (Hurley-Walker et al. 2023)](https://doi.org/10.1038/s41586-023-06202-5) |
+| [Inverse Polyphase Filterbank](https://github.com/robotopia/paper-ipfb) | 🔓📁✍① | [Published paper (McSweeney et al. 2020)](https://doi.org/10.1017/pasa.2020.24) |
 | [Audio experiments](https://github.com/robotopia/audio-experiments) | 🔒🚼①🎮 | |
 | [Automatic Invoicing System](https://github.com/robotopia/ais) | 🔓🛠①🎮 | |
 | [Only Words Remain](https://github.com/robotopia/only-words-remain) | 🔒🚼①🎮 | An implementation of [Browne (2016)](https://bridges.monash.edu/articles/conference_contribution/When_Only_Words_Remain_Testing_a_Method_of_Comparative_Reconstitution_in_Ngarluma/4234793) |
@@ -50,3 +50,14 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 | [Index for equations in academic journals](https://github.com/robotopia/eqidx) | 🔒🛠①🎮 | |
 | [Personal BibTeX archive for interesting papers](https://github.com/robotopia/all_refs) | 🔒🛠①✍ | |
 | [Drift analysis tool](https://github.com/robotopia/drift_analysis) | 🔓🛠①✍ | |
+| [Blinkies prediction](https://github.com/robotopia/blinkies-prediction) | 🔓📁①✍ | |
+| [Pulsar sky](https://github.com/robotopia/pulsar-sky) | 🔓🛠①✍ | |
+| [Django-GEDCOMX](https://github.com/robotopia/django-gedcomx) | 🔒🚼①🎮 | Implementation of the [GEDCOM-X specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) |
+| [PSR J0026-1955 analysis](https://github.com/robotopia/J0026-1955-analysis) | 🔓📁①✍ | [Discovery paper (McSweeney et al. 2022)](https://doi.org/10.3847/1538-4357/ac75bc) |
+| [Presentation for MWA Project Meeting 2022B](https://github.com/robotopia/mwa-project-meeting-2022B) | 🔓📁①✍ | [Talk on YouTube](https://youtu.be/jF9GZZtt7Wc?t=98) |
+| [My family history](https://github.com/robotopia/family-history) | 🔒🛠①🎮 | |
+| [My TEDxKingsPark talk materials](https://github.com/robotopia/tedxtalk) | 🔒📁①🎮 | [The talk itself](https://tedxkingspark.org/talk/why-you-need-never-feel-lonely-again/) |
+| [Horizon RFI Imager](https://github.com/robotopia/horizon-rfi) | 🔓🚼①✍ | |
+| [DM Slider](https://github.com/robotopia/dm-slider) | 🔓🚼①✍ | |
+| [Measuring W50 by smoothing via regularisation](https://github.com/robotopia/W50-via-stickel) |  | [Published paper (Kaur et al. 2019)](https://doi.org/10.3847/1538-4357/ab338f) |
+
