@@ -69,13 +69,13 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 
 | Name (and link) | Type | Associated links |
 | :-------------- | :--: | :--------------- |
-| [Audio experiments](https://github.com/robotopia/audio-experiments) | 🔒🚼🎮① | |
-| [Automatic Invoicing System](https://github.com/robotopia/ais) | 🔓🛠🎮① | |
-| [Only Words Remain](https://github.com/robotopia/only-words-remain) | 🔒🚼🎮① | An implementation of [Browne (2016)](https://bridges.monash.edu/articles/conference_contribution/When_Only_Words_Remain_Testing_a_Method_of_Comparative_Reconstitution_in_Ngarluma/4234793) |
-| [Home library database](https://github.com/robotopia/librarydb) | 🔓🛠🎮① | |
+| [Audio experiments](https://github.com/robotopia/audio-experiments) | 🔒🚼① | |
+| [Automatic Invoicing System](https://github.com/robotopia/ais) | 🔓🛠① | |
+| [Only Words Remain](https://github.com/robotopia/only-words-remain) | 🔒🚼① | An implementation of [Browne (2016)](https://bridges.monash.edu/articles/conference_contribution/When_Only_Words_Remain_Testing_a_Method_of_Comparative_Reconstitution_in_Ngarluma/4234793) |
+| [Home library database](https://github.com/robotopia/librarydb) | 🔓🛠① | |
 | [A computer algebra system designed for making and presenting derivations](https://github.com/robotopia/dercas) | 🔒🚼🎮① | |
-| [Index for equations in academic journals](https://github.com/robotopia/eqidx) | 🔒🛠🎮① | |
-| [Django-GEDCOMX](https://github.com/robotopia/django-gedcomx) | 🔒🚼🎮① | Implementation of the [GEDCOM-X specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) |
-| [My family history](https://github.com/robotopia/family-history) | 🔒🛠🎮① | |
-| [My TEDxKingsPark talk materials](https://github.com/robotopia/tedxtalk) | 🔒📁🎮① | [The talk itself](https://tedxkingspark.org/talk/why-you-need-never-feel-lonely-again/) |
-| [MIDITools])https://github.com/robotopia/miditools) | 🔓🚼🎮① | |
+| [Index for equations in academic journals](https://github.com/robotopia/eqidx) | 🔒🛠① | |
+| [Django-GEDCOMX](https://github.com/robotopia/django-gedcomx) | 🔒🚼① | Implementation of the [GEDCOM-X specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) |
+| [My family history](https://github.com/robotopia/family-history) | 🔒🛠① | |
+| [My TEDxKingsPark talk materials](https://github.com/robotopia/tedxtalk) | 🔒📁① | [The talk itself](https://tedxkingspark.org/talk/why-you-need-never-feel-lonely-again/) |
+| [MIDITools](https://github.com/robotopia/miditools) | 🔓🚼① | |
