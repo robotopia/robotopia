@@ -46,7 +46,7 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 | [Horizon RFI Imager](https://github.com/robotopia/horizon-rfi) | 🔓🚼① | |
 | [DM Slider](https://github.com/robotopia/dm-slider) | 🔓🚼① | |
 | [Post-correlation beamforming](https://github.com/robotopia/postcorrelation_beamforming) | 🔒🚼① | |
-| [PhD thesis](https://github.com/robotopia/phd-thesis) | 🔒📁① | [Publication at Curtin library](https://catalogue.curtin.edu.au/permalink/61CUR_INST/11n2j13/alma9939026135201951)]
+| [PhD thesis](https://github.com/robotopia/phd-thesis) | 🔒📁① | [Publication at Curtin library](https://catalogue.curtin.edu.au/permalink/61CUR_INST/11n2j13/alma9939026135201951) |
 | [Pulsar multimedia](https://github.com/robotopia/pulsar-multimedia) | 🔓🛠① | [Animations on Google Drive](https://drive.google.com/drive/folders/0B22qV5-nFyVYVUpiNWVZbko5d0E?resourcekey=0-e5qAmiYoa9BfDYUA3ilGww&usp=sharing) |
 | [A gentle C tutorial for my colleagues](https://github.com/robotopia/c-tutorial) | 🔓📁① | |
 | [Fourier ANalysis Suite in Octave (FANSO)](https://github.com/robotopia/fanso) | 🔓📁① | |
