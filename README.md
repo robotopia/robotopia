@@ -28,29 +28,29 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 
 ### Repos relating to my professional work
 
-| Name (and link) | Type | Associated links |
-| :-------------- | :--: | :--------------- |
-| [The Galactic Plane Monitoring pipeline](https://github.com/robotopia/MWA-Galactic-Plane-Monitoring) | 🔓🛠① |
-| [Ultra long period (ULP) transient online database](https://github.com/robotopia/ulp-database) | 🔓🛠① | [ULP website](https://ulp.duckdns.org/published) |
-| [ULP polarisation](https://github.com/robotopia/ulp-polarisation) | 🔒🚼① | |
-| [Relativistic Astrophysics and Cosmology](https://github.com/robotopia/astr3000) | 🔒🛠① | [Unit description](https://handbook.curtin.edu.au/units/unit-ug-relativistic-astrophysics-and-cosmology--astr3000v1) |
-| [Pipeline tool for MWA/HPC](https://github.com/robotopia/mwa-projects) | 🔒🚼① | |
-| [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) | 🔒🛠 | |
-| [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam) | 🔓🛠 | [Documentation](https://cira-pulsars-and-transients-group.github.io/vcsbeam/) |
-| [Calibration solution smoothing method](https://github.com/robotopia/calibration-frobenius-stickel) | 🔓🚼① | |
-| [Personal BibTeX archive for interesting papers](https://github.com/robotopia/all_refs) | 🔒🛠① | |
-| [Drift analysis tool](https://github.com/robotopia/drift_analysis) | 🔓🛠① | |
-| [Blinkies prediction](https://github.com/robotopia/blinkies-prediction) | 🔓📁① | |
-| [Pulsar sky](https://github.com/robotopia/pulsar-sky) | 🔓🛠① | |
-| [Presentation for MWA Project Meeting 2022B](https://github.com/robotopia/mwa-project-meeting-2022B) | 🔓📁① | [Talk on YouTube](https://youtu.be/jF9GZZtt7Wc?t=98) |
-| [Horizon RFI Imager](https://github.com/robotopia/horizon-rfi) | 🔓🚼① | |
-| [DM Slider](https://github.com/robotopia/dm-slider) | 🔓🚼① | |
-| [Post-correlation beamforming](https://github.com/robotopia/postcorrelation_beamforming) | 🔒🚼① | |
-| [PhD thesis](https://github.com/robotopia/phd-thesis) | 🔒📁① | [Publication at Curtin library](https://catalogue.curtin.edu.au/permalink/61CUR_INST/11n2j13/alma9939026135201951) |
-| [Pulsar multimedia](https://github.com/robotopia/pulsar-multimedia) | 🔓🛠① | [Animations on Google Drive](https://drive.google.com/drive/folders/0B22qV5-nFyVYVUpiNWVZbko5d0E?resourcekey=0-e5qAmiYoa9BfDYUA3ilGww&usp=sharing) |
-| [A gentle C tutorial for my colleagues](https://github.com/robotopia/c-tutorial) | 🔓📁① | |
-| [Fourier ANalysis Suite in Octave (FANSO)](https://github.com/robotopia/fanso) | 🔓📁① | |
-| [RRAT discovery](https://github.com/Jared-Moseley/JaredPulsarPaper) | 🔒🛠① | (in prep) |
+| Name (and link) | Type | Associated links | Languages |
+| :-------------- | :--: | :--------------- | :-------- |
+| [The Galactic Plane Monitoring pipeline](https://github.com/robotopia/MWA-Galactic-Plane-Monitoring) | 🔓🛠① | | Bash, Python, SQL |
+| [Ultra long period (ULP) transient online database](https://github.com/robotopia/ulp-database) | 🔓🛠① | [ULP website](https://ulp.duckdns.org/published) | Python, Javascript, SQL |
+| [ULP polarisation](https://github.com/robotopia/ulp-polarisation) | 🔒🚼① | | |
+| [Relativistic Astrophysics and Cosmology](https://github.com/robotopia/astr3000) | 🔒🛠① | [Unit description](https://handbook.curtin.edu.au/units/unit-ug-relativistic-astrophysics-and-cosmology--astr3000v1) | LaTeX |
+| [Pipeline tool for MWA/HPC](https://github.com/robotopia/mwa-projects) | 🔒🚼① | | Python, Javascript, SQL |
+| [SMART webapp](https://github.com/ADACS-Australia/SS2020A-RBhat) | 🔒🛠 | | |
+| [VCSBeam](https://github.com/CIRA-Pulsars-and-Transients-Group/vcsbeam) | 🔓🛠 | [Documentation](https://cira-pulsars-and-transients-group.github.io/vcsbeam/) | |
+| [Calibration solution smoothing method](https://github.com/robotopia/calibration-frobenius-stickel) | 🔓🚼① | | |
+| [Personal BibTeX archive for interesting papers](https://github.com/robotopia/all_refs) | 🔒🛠① | | |
+| [Drift analysis tool](https://github.com/robotopia/drift_analysis) | 🔓🛠① | | |
+| [Blinkies prediction](https://github.com/robotopia/blinkies-prediction) | 🔓📁① | | |
+| [Pulsar sky](https://github.com/robotopia/pulsar-sky) | 🔓🛠① | | |
+| [Presentation for MWA Project Meeting 2022B](https://github.com/robotopia/mwa-project-meeting-2022B) | 🔓📁① | [Talk on YouTube](https://youtu.be/jF9GZZtt7Wc?t=98) | |
+| [Horizon RFI Imager](https://github.com/robotopia/horizon-rfi) | 🔓🚼① | | |
+| [DM Slider](https://github.com/robotopia/dm-slider) | 🔓🚼① | | |
+| [Post-correlation beamforming](https://github.com/robotopia/postcorrelation_beamforming) | 🔒🚼① | | |
+| [PhD thesis](https://github.com/robotopia/phd-thesis) | 🔒📁① | [Publication at Curtin library](https://catalogue.curtin.edu.au/permalink/61CUR_INST/11n2j13/alma9939026135201951) | |
+| [Pulsar multimedia](https://github.com/robotopia/pulsar-multimedia) | 🔓🛠① | [Animations on Google Drive](https://drive.google.com/drive/folders/0B22qV5-nFyVYVUpiNWVZbko5d0E?resourcekey=0-e5qAmiYoa9BfDYUA3ilGww&usp=sharing) | |
+| [A gentle C tutorial for my colleagues](https://github.com/robotopia/c-tutorial) | 🔓📁① | | |
+| [Fourier ANalysis Suite in Octave (FANSO)](https://github.com/robotopia/fanso) | 🔓📁① | | |
+| [RRAT discovery](https://github.com/Jared-Moseley/JaredPulsarPaper) | 🔒🛠① | (submitted) | |
 
 ### Repos for peer-reviewed journal articles
 
