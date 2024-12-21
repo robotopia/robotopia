@@ -41,7 +41,7 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 | [Personal BibTeX archive for interesting papers](https://github.com/robotopia/all_refs) | 🔒🛠① | | |
 | [Drift analysis tool](https://github.com/robotopia/drift_analysis) | 🔓🛠① | | |
 | [Blinkies prediction](https://github.com/robotopia/blinkies-prediction) | 🔓📁① | | |
-| [Pulsar sky](https://github.com/robotopia/pulsar-sky) | 🔓🛠① | | |
+| [Pulsar sky](https://github.com/robotopia/pulsar-sky) | 🔓🛠① | [Live demonstration website](https://pulsars.gazza.rocks/map/) | Django, D3 |
 | [Presentation for MWA Project Meeting 2022B](https://github.com/robotopia/mwa-project-meeting-2022B) | 🔓📁① | [Talk on YouTube](https://youtu.be/jF9GZZtt7Wc?t=98) | |
 | [Horizon RFI Imager](https://github.com/robotopia/horizon-rfi) | 🔓🚼① | | |
 | [DM Slider](https://github.com/robotopia/dm-slider) | 🔓🚼① | | |
