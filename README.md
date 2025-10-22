@@ -30,7 +30,7 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 
 | Name (and link) | Type | Associated links | Languages |
 | :-------------- | :--: | :--------------- | :-------- |
-| [The Galactic Plane Monitoring pipeline](https://github.com/robotopia/MWA-Galactic-Plane-Monitoring) | 🔓🛠① | | Bash, Python, SQL |
+| [The Galactic Plane Monitoring pipeline](https://github.com/robotopia/MWA-Galactic-Plane-Monitoring) | 🔓🛠 | | Bash, Python, SQL |
 | [Long period transient (LPT) online database](https://github.com/robotopia/ulp-database) | 🔓🛠① | [LPT website](https://lpt.mwa-image-plane.cloud.edu.au/) | Python, Javascript, SQL |
 | [ULP polarisation](https://github.com/robotopia/ulp-polarisation) | 🔒🚼① | | |
 | [Relativistic Astrophysics and Cosmology](https://github.com/robotopia/astr3000) | 🔒🛠① | [Unit description](https://handbook.curtin.edu.au/units/unit-ug-relativistic-astrophysics-and-cosmology--astr3000v1) | LaTeX |
