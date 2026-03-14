@@ -50,7 +50,6 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 | [Pulsar multimedia](https://github.com/robotopia/pulsar-multimedia) | 🔓🛠① | [Animations on Google Drive](https://drive.google.com/drive/folders/0B22qV5-nFyVYVUpiNWVZbko5d0E?resourcekey=0-e5qAmiYoa9BfDYUA3ilGww&usp=sharing) | |
 | [A gentle C tutorial for my colleagues](https://github.com/robotopia/c-tutorial) | 🔓📁① | | |
 | [Fourier ANalysis Suite in Octave (FANSO)](https://github.com/robotopia/fanso) | 🔓📁① | | |
-| [RRAT discovery](https://github.com/Jared-Moseley/JaredPulsarPaper) | 🔒🛠① | (submitted) | |
 
 ### Repos for peer-reviewed journal articles
 
@@ -64,6 +63,7 @@ Below are links to some of the repos that I *have* worked on, *do* work on, or *
 | [PSRGeom](https://github.com/robotopia/psrgeom) | 🔓📁① | [Published paper (McSweeney et al. 2019)](https://doi.org/10.3847/1538-4357/aaf37e) |
 | [Veff (analysis tool for pulsar secondary spectra)](https://github.com/robotopia/veff) | 🔓📁① | [Published paper (Bhat et al. 2016)](https://doi.org/10.3847/0004-637X/818/1/86) |
 | [B0818-41 single pulse analysis](https://github.com/CIRA-Pulsars-and-Transients-Group/summer-project-2020-2021-lisa-smith) | 🔓📁① | [Published paper (McSweeney et al. 2023)](https://doi.org/10.3847/1538-4357/acdcf2) |
+| [B0031-5726 (RRAT)](https://github.com/robotopia/b0031-57-discovery-paper) | 🔒🛠① | [Published paper (McSweeney et al. 2025)](https://doi.org/10.3847/1538-4357/adb27f) |
 
 ### Personal projects, you know, for fun!
 
